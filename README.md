@@ -1,4 +1,5 @@
 ### Hi!
+---
 
 My Name is Yannik and i live in Oldenburg. For the past years I did my masters degree in Integrated Media and specialized in Design and Filmmaking. Currently i enrolled in the neueFische Bootcamp to enhance my knowledge in Web-Development.
 
