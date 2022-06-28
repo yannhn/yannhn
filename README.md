@@ -1,9 +1,6 @@
 Hi 👋 My name is Yannik
 =======================
 
-Frontend-Developer and Designer
---------------------------
-
 For the past years I did my masters degree specializing in Design and Filmmaking. I am currently enrolled in the neueFische Bootcamp to enhance my knowledge in Frontend-Development.
 
 *   🌍  I'm based in Oldenburg, Germany
