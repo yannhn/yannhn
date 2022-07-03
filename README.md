@@ -4,7 +4,7 @@ Hi 👋 My name is Yannik
 For the past years I did my masters degree specializing in Design and Filmmaking. I am currently enrolled in the neueFische Bootcamp to enhance my knowledge in Frontend-Development.
 
 *   🌍  I'm based in Oldenburg, Germany
-*   🚀  I'm currently working on [Dogary (neueFische capstone-project)](http://https://github.com/yannhn/capstone-project)
+*   🚀  I'm currently working on [Dogary (neueFische capstone-project)](http://github.com/yannhn/capstone-project)
 *   🤝  I'm open to collaborating on interesting projects!
 
 ### Skills
