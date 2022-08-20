@@ -29,7 +29,7 @@ For the past years I did my masters degree specializing in Design and Filmmaking
 
 <b>My Codewars Stats</b>
 
-<a href='https://www.codewars.com/users/yannhn'><img src='https://www.codewars.com/users/yannhn/badges/large'></a>
+<a href='https://www.codewars.com/users/yannhn'><img src='https://www.codewars.com/users/yannhn/badges/small'></a>
 
 <b>My GitHub Stats</b>
 
