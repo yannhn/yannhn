@@ -3,9 +3,7 @@ Hi 👋 My name is Yannik
 
 ## About me
 
-I am a Web Developer with multiple years of experience in Design, Filmmaking and Marketing. Self-starter with strong communication skills and fast approach to problem solving. I am curious to learn new technologies and expand my knowledge. At the moment I am working further into the topics backend and databases. The use of technology for positive change drives me and I am open for collaborating on exciting open source projects.
-
-## Projects
+I am a Web Developer with multiple years of experience in Design, Filmmaking and Marketing. Self-starter with strong communication skills and fast approach to problem solving. I am curious to learn new technologies and expand my knowledge. My goal is to improve my skills, so consistency is key for me. At the moment I am working further into the topics backend, databases and cloud. The use of technology for positive change drives me and I am open for collaborating on exciting open source projects.
 
 ## Technologies
 <p align="left">
@@ -27,7 +25,6 @@ I am a Web Developer with multiple years of experience in Design, Filmmaking and
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
-## Contact
-
 ## Stats
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yannhn&theme=dark" alt="yannhn" /></p>
