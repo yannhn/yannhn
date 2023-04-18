@@ -27,4 +27,4 @@ I am a Web Developer with multiple years of experience in Design, Filmmaking and
 
 ## Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yannhn&theme=highcontrast" alt="yannhn" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yannhn&theme=dark" alt="yannhn" /></p>
