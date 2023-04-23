@@ -3,7 +3,7 @@ Hi 👋 My name is Yannik
 
 ## About me
 
-I am a Web Developer with multiple years of experience in Design, Filmmaking and Marketing. Self-starter with strong communication skills and fast approach to problem solving. I am curious to learn new technologies and expand my knowledge. At the moment I am working further into the topics backend, databases and cloud. The use of technology for positive change drives me and I am open for collaborating on exciting open source projects.
+I am a Web Developer with multiple years of experience in Design, Filmmaking and Marketing. Self-starter with strong communication skills and fast approach to problem solving. I am curious to learn new technologies and expand my knowledge. At the moment I am working further into the topics backend and databases. The use of technology for positive change drives me and I am open for collaborating on exciting open source projects.
 
 ## Technologies
 <p align="left">
