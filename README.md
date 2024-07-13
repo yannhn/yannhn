@@ -1,10 +1,6 @@
 Hi 👋 My name is Yannik
 =======================
 
-## About me
-
-I am a Web Developer with multiple years of experience in Design, Filmmaking and Marketing. Self-starter with strong communication skills and fast approach to problem solving. I am curious to learn new technologies and expand my knowledge. At the moment I am working further into the topics backend and databases. The use of technology for positive change drives me and I am open for collaborating on exciting open source projects.
-
 ## Technologies
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
